@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: rizos.dev@gmail.com
     phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    website:  #do not add http://
     linkedin: rizos-konstantinos
     github: konstantinosrizos
     gitlab:
@@ -25,34 +25,29 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Greek
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: 
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: 
+        level: 
 
     interests:
-      - item: Climbing
+      - item: Photography
         link:
 
-      - item: Snowboarding
+      - item: Traveling
         link:
 
-      - item: Cooking
+      - item: Gaming
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      An independent and self-motivated iOS Developer with proven and tested for programming, developing and designing applications skills, who has passion and increasing the proficient in iOS. A strong link between theoretical knowledge from a Diploma in Computer Software Engineering, practical internships and a part-time job.
 education:
     - degree: MSc in Computer Science
       university: University of London

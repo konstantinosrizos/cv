@@ -29,10 +29,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: 
-
-      - idiom: 
-        level: 
+        level: Intermediate 
 
     interests:
       - item: Photography
@@ -49,15 +46,10 @@ career-profile:
     summary: |
       An independent and self-motivated iOS Developer with proven and tested for programming, developing and designing applications skills, who has passion and increasing the proficient in iOS. A strong link between theoretical knowledge from a Diploma in Computer Software Engineering, practical internships and a part-time job.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Certificate in Software Developer
+      university: Private Institute of Vocational Training
+      time: 2017 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
           - Bullet point
           - Bullet point
     - degree: BSc in Applied Mathematics

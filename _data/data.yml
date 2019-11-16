@@ -50,57 +50,33 @@ education:
       university: Private Institute of Vocational Training
       time: 2017 - 2019
       details: |
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+          - Markup languages: HTML / CSS3.
+          - Programming languages: C / C++ / C# / AngularJS.
+          - Server-side language: PHP.
+          - Database: SQL / SQLite.
+    - degree: Web Design and Front End Developer
+      university: National and Kapodistrian University
+      time: 2018 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - jQuery and JavaScript
+          - Axure & Balsamiq wireframing
+          - AngularJS
+          - Graphic Design with Adobe Photoshop
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: iOS Developer
+      time: 2018 - Present
+      company: SoccerHub, Athens GR
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Developed front-end (UI/UX) and back-end of iOS application product.
+          - Adapted existing methods and procedures to create specialised solutions to intricate threads and memory management problems.
+          - Worked with the iOS SDK and frameworks like as UIKit, Firebase, GoogleSI.
+          - Collaborated with team for product design decisions for our app.
+    - role: HR Assistant
+      time: 2010 - Present
+      company: Hellenic Air Force (HAF), Athens GR
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Managed 110 people and responsible for the Human Resource Management (HRM) with daily report to my supervisor.
+          - In charge of the Information System Security (IT) and my duties is to securely protect and safeguard information against any unauthorised access.
 projects:
     title: Projects
     intro: >

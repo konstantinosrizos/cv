@@ -42,11 +42,9 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: About
     summary: |
-      I am a Software Engineer who has passion for iOS Development. Also passionate about technology and clean code.
-As a self motivated character I believe that there is always scope for improving my coding skills so I try hard day by day.
-As a passionate Apple lover, I adore the simplicity and effectiveness with which my MacBook and iPhones have enhanced my personal life. This has also influenced the way I see mobile life and that is how I started developing iOS apps
+      I am a Software Engineer who has passion for iOS Development. Also passionate about technology and clean code. As a self motivated character I believe that there is always scope for improving my coding skills so I try hard day by day. As a passionate Apple lover, I adore the simplicity and effectiveness with which my MacBook and iPhones have enhanced my personal life. This has also influenced the way I see mobile life and that is how I started developing iOS apps
 
 education:
     - degree: Certificate in Software Developer
@@ -66,16 +64,21 @@ education:
           - AngularJS
           - Graphic Design with Adobe Photoshop
 experiences:
+    - role: Jr. iOS Developer
+      time: 01/2020 - Present
+      company: ClearScore, London UK
+      details: |
+          - Involved in refactoring the code with the Resolve Team
     - role: iOS Developer
-      time: 2018 - Present
+      time: 12/2018 - 01/2020
       company: SoccerHub, Athens GR
       details: |
-          - Developed front-end (UI/UX) and back-end of iOS application product.
+          - Developed the iOS app from scratch to release.
           - Adapted existing methods and procedures to create specialised solutions to intricate threads and memory management problems.
           - Worked with the iOS SDK and frameworks like as UIKit, Firebase, GoogleSI.
           - Collaborated with team for product design decisions for our app.
     - role: HR Assistant
-      time: 2010 - Present
+      time: 05/2010 - 01/2020
       company: Hellenic Air Force (HAF), Athens GR
       details: |
           - Managed 110 people and responsible for the Human Resource Management (HRM) with daily report to my supervisor.
@@ -83,7 +86,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-    assignments:
+    assignments: 
       - title: SoccerHub Business
         link: "https://apps.apple.com/gr/app/soccerhub-business/id1457835400"
         tagline: "Developed the iOS app, while our users increased by 30%, resulting in more customers."
@@ -96,16 +99,16 @@ skills:
 
     toolset:
       - name: Swift
-        level: 90%
+        level: 80%
 
-      - name: XCode
-        level: 90%
+      - name: SwiftUI
+        level: 20%
 
       - name: Git
         level: 80%
 
-      - name: iOS SDK
-        level: 85%
+      - name: Object Oriented Programming
+        level: 75%
 
-      - name: API
-        level: 70%
+      - name: RESTful APIs
+        level: 65%

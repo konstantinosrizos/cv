@@ -7,13 +7,13 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: onstantinos Rizos
+    name: Konstantinos Rizos
     tagline: iOS Developer
     avatar: my_profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: rizos.dev@gmail.com
-    phone: +30 6951845803
+    phone: +44 7391963625
     website:  #do not add http://
     linkedin: rizos-konstantinos
     github: konstantinosrizos
@@ -44,7 +44,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      An independent and self-motivated iOS Developer with proven and tested for programming, developing and designing applications skills, who has passion and increasing the proficient in iOS. A strong link between theoretical knowledge from a Diploma in Computer Software Engineering, practical internships and a part-time job.
+      I am a Software Engineer who has passion for iOS Development. Also passionate about technology and clean code.
+As a self motivated character I believe that there is always scope for improving my coding skills so I try hard day by day.
+As a passionate Apple lover, I adore the simplicity and effectiveness with which my MacBook and iPhones have enhanced my personal life. This has also influenced the way I see mobile life and that is how I started developing iOS apps
+
 education:
     - degree: Certificate in Software Developer
       university: Private Institute of Vocational Training

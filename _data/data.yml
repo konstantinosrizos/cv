@@ -99,16 +99,16 @@ skills:
 
     toolset:
       - name: Swift
-        level: 80%
+        level: 70%
 
       - name: SwiftUI
-        level: 30%
+        level: 40%
 
       - name: Git
         level: 80%
 
       - name: Object Oriented Programming
-        level: 75%
+        level: 65%
 
       - name: RESTful APIs
-        level: 65%
+        level: 55%

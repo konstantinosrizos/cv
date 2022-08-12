@@ -71,7 +71,11 @@ experiences:
       time: 01/2020 - Present
       company: ClearScore, London UK
       details: |
-          - Involved in refactoring the code with the Resolve Team
+          - Involved in refactoring and updating the code at Resolve Team
+          - Implementing Local Notification and SMS Services
+          - Contributed to releasing the new feature of Open Banking
+          - Created the Build feature that helps our users build their credit score
+          - Improving the Code Quality using SwiftLint
     - role: iOS Developer
       time: 12/2018 - 01/2020
       company: SoccerHub, Athens GR

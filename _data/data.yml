@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Konstantinos Rizos
@@ -32,10 +32,10 @@ sidebar:
         level: Intermediate 
 
     interests:
-      - item: Photography
+      - item: Photo/Video Editing
         link:
 
-      - item: Traveling
+      - item: Reading
         link:
 
       - item: Gaming
@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      I am a Software Engineer who has passion for iOS Development. Also passionate about technology and clean code. As a self motivated character I believe that there is always scope for improving my coding skills so I try hard day by day. As a passionate Apple lover, I adore the simplicity and effectiveness with which my MacBook and iPhones have enhanced my personal life. This has also influenced the way I see mobile life and that is how I started developing iOS apps
+      I am a Software Engineer who has a passion for iOS Development. Also passionate about technology and clean code. As a self-motivated character, I believe that there is always scope for improving my coding skills, so I try hard day by day. As a passionate Apple lover, I adore the simplicity and effectiveness with which my MacBook and iPhones have enhanced my personal life. This has also influenced the way I see mobile life, and that is how I started developing iOS apps.
 
 education:
     - degree: Certificate in Software Developer
@@ -55,6 +55,8 @@ education:
           - Programming languages: C / C++ / C# / AngularJS.
           - Server-side language: PHP.
           - Database: SQL / SQLite.
+          - Software & Application Technology (UML)
+          - System Security
     - degree: Web Design and Front End Developer
       university: National and Kapodistrian University
       time: 2018 - 2019
@@ -63,8 +65,9 @@ education:
           - Axure & Balsamiq wireframing
           - AngularJS
           - Graphic Design with Adobe Photoshop
+
 experiences:
-    - role: Jr. iOS Developer
+    - role: iOS Developer
       time: 01/2020 - Present
       company: ClearScore, London UK
       details: |
@@ -90,10 +93,7 @@ projects:
       - title: SoccerHub Business
         link: "https://apps.apple.com/gr/app/soccerhub-business/id1457835400"
         tagline: "Developed the iOS app, while our users increased by 30%, resulting in more customers."
-
-      - title: Natura EPE
-        link: "https://www.naturaepe.gr/"
-        tagline: "Developed with pure HTML, CSS and Javascript the Natura EPE website. A project to promote the olive oil of Natura."
+        
 skills:
     title: Skills &amp; Proficiency
 
@@ -102,7 +102,7 @@ skills:
         level: 80%
 
       - name: SwiftUI
-        level: 20%
+        level: 30%
 
       - name: Git
         level: 80%

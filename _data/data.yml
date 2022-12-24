@@ -46,6 +46,30 @@ career-profile:
     summary: |
       I am a Software Engineer who has a passion for iOS Development. Also passionate about technology and clean code. As a self-motivated character, I believe that there is always scope for improving my coding skills, so I try hard day by day. As a passionate Apple lover, I adore the simplicity and effectiveness with which my MacBook and iPhones have enhanced my personal life. This has also influenced the way I see mobile life, and that is how I started developing iOS apps.
 
+experiences:
+    - role: iOS Developer
+      time: 01/2020 - Present
+      company: ClearScore, London UK
+      details: |
+          - Involved in refactoring and updating the code of some features from UIKit to SwiftUI which leads to better app performance.
+          - Drove 17% more user traffic to our app by Implementing Local Notification and SMS Services.
+          - Contributed to building the new feature of Open Banking, and we increased the business revenue by 26% in the first month.
+          - Created the Build feature that helps our users build their credit score, and they saw a 19% increase in their credit score.
+          - Improved the Code Quality using SwiftLint, resulting in a better code style.
+    - role: iOS Developer
+      time: 12/2018 - 01/2020
+      company: SoccerHub, Athens GR
+      details: |
+          - Developed the iOS app from scratch to release.
+          - Adapted existing methods and procedures to create specialised solutions to intricate threads and memory management problems.
+          - Worked with the iOS SDK and frameworks like as UIKit, Firebase, GoogleSI.
+          - Collaborated with team for product design decisions for our app.
+    - role: HR Assistant
+      time: 05/2010 - 01/2020
+      company: Hellenic Air Force (HAF), Athens GR
+      details: |
+          - Managed 110 people and responsible for the Human Resource Management (HRM) with daily report to my supervisor.
+          - In charge of the Information System Security (IT) and my duties is to securely protect and safeguard information against any unauthorised access.
 education:
     - degree: Certificate in Software Developer
       university: Private Institute of Vocational Training
@@ -65,30 +89,6 @@ education:
           - Axure & Balsamiq wireframing
           - AngularJS
           - Graphic Design with Adobe Photoshop
-experiences:
-    - role: iOS Developer
-      time: 01/2020 - Present
-      company: ClearScore, London UK
-      details: |
-          - Involved in refactoring and updating the code at Resolve Team
-          - Implementing Local Notification and SMS Services
-          - Contributed to releasing the new feature of Open Banking
-          - Created the Build feature that helps our users build their credit score
-          - Improving the Code Quality using SwiftLint
-    - role: iOS Developer
-      time: 12/2018 - 01/2020
-      company: SoccerHub, Athens GR
-      details: |
-          - Developed the iOS app from scratch to release.
-          - Adapted existing methods and procedures to create specialised solutions to intricate threads and memory management problems.
-          - Worked with the iOS SDK and frameworks like as UIKit, Firebase, GoogleSI.
-          - Collaborated with team for product design decisions for our app.
-    - role: HR Assistant
-      time: 05/2010 - 01/2020
-      company: Hellenic Air Force (HAF), Athens GR
-      details: |
-          - Managed 110 people and responsible for the Human Resource Management (HRM) with daily report to my supervisor.
-          - In charge of the Information System Security (IT) and my duties is to securely protect and safeguard information against any unauthorised access.
 projects:
     title: Projects
     intro: >

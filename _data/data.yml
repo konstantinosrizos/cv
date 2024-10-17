@@ -99,13 +99,13 @@ education:
           - Axure & Balsamiq wireframing
           - AngularJS
           - Graphic Design with Adobe Photoshop
-projects:
-    title: Projects
-    intro: >
-    assignments: 
-      - title: SoccerHub Business
-        link: "https://apps.apple.com/gr/app/soccerhub-business/id1457835400"
-        tagline: "Developed the iOS app, while our users increased by 30%, resulting in more customers."
+#projects:
+    #title: Projects
+    #intro: >
+    #assignments: 
+      #- title: SoccerHub Business
+        #link: "https://apps.apple.com/gr/app/soccerhub-business/id1457835400"
+        #tagline: "Developed the iOS app, while our users increased by 30%, resulting in more customers."
 skills:
     title: Skills &amp; Proficiency
 

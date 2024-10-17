@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Konstantinos Rizos
-    tagline: iOS Developer
+    tagline: Developer / Creator
     avatar: my_profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: rizos.dev@gmail.com
-    phone: #+44 7391963625
+    phone: +30 6936657219
     website:  #do not add http://
     linkedin: #rizos-konstantinos
     github: konstantinosrizos
@@ -32,23 +32,30 @@ sidebar:
         level: Intermediate 
 
     interests:
-      - item: Photo/Video Editing
-        link:
-
-      - item: Reading
+      - item: Tech
         link:
 
       - item: Gaming
         link:
 
+      - item: Photo/Video Editing
+        link:
+
 career-profile:
     title: About
     summary: |
-      I am a Software Engineer who has a passion for iOS Development. Also passionate about technology and clean code. As a self-motivated character, I believe that there is always scope for improving my coding skills, so I try hard day by day. As a passionate Apple lover, I adore the simplicity and effectiveness with which my MacBook and iPhones have enhanced my personal life. This has also influenced the way I see mobile life, and that is how I started developing iOS apps.
+      I'm a software engineer turned content creator with a passion for tech and gaming. My experience in software engineering sharpened my problem-solving and analytical skills, while my content creation work enhanced my creativity and thinking out of the box. 
 
 experiences:
+    - role: Gaming Content Creator
+      time: 12/2023 - Present
+      company: YouTube
+      details: |
+          - Research video ideas with viral potential.
+          - Implementing clickable thumbnails to increase the CTR of a video.
+          - Video and photo editing with Adobe’s tools for creating thumbnails and videos.
     - role: iOS Developer
-      time: 01/2020 - Present
+      time: 01/2020 - 06/2023
       company: ClearScore, London UK
       details: |
           - Involved in refactoring and updating the code of some features from UIKit to SwiftUI which leads to better app performance.
@@ -100,17 +107,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Swift
-        level: 70%
-
-      - name: SwiftUI
-        level: 40%
-
-      - name: Git
+      - name: Adobe Suite
         level: 80%
 
-      - name: Object Oriented Programming
-        level: 65%
+      - name: Programming(Swift)
+        level: 70%
 
-      - name: RESTful APIs
-        level: 55%
+      #- name: Swift
+        #level: 70%
+
+      #- name: SwiftUI
+        #level: 50%
+
+      #- name: Git
+        #level: 80%
